@@ -1,1 +1,2 @@
-## about us
+<section data-background-image="slides/about.png">
+
