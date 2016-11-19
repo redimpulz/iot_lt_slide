@@ -1,4 +1,3 @@
-## production example
+## WORKS
 - ippuQ
-- shock stick
-- chicaro
+- ChiCaRo

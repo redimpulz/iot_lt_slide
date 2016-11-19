@@ -1,2 +1,2 @@
-<section data-background-image="slides/about.png">
+<section data-background-image="slides/about.svg">
 
