@@ -1,6 +1,3 @@
-<img src="slides/notify.jpg" style="float:left">
-ippuQでは
+<img src="slides/notify.jpg" style="width:40%">
 
-アプリケーションからNG登録をしておくと、
-
-ライターを持っている人に匿名で通知を送ることができます。
+#### ippuQではアプリケーションからNG登録をしておくと、ライターを持っている人に匿名で通知を送ることができます。

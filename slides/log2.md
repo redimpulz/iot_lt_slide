@@ -1,4 +1,4 @@
-<img src="slides/logView.jpg" style="float:right; width:30%;">
+<img src="slides/logView.jpg" style="width:30%;">
 
 #### アプリケーションで本数のグラフを確認することができる
 
